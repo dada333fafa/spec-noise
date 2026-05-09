@@ -1,0 +1,1 @@
+{"final_epoch_info": {"train_loss": 0.7149473266303539, "test_loss": 0.6055458718538285, "train_accuracy": 0.765625, "test_accuracy": 0.8075}, "args": {"input": "./images_dataset", "batch_size": 32, "device": "cuda", "train_epochs": 300, "learning_rate": 0.01, "checkpoint_dir": "./check-point", "seed": 42, "augmentation": ["RandomReplacementSpecAugmentation"]}}
